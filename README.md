@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;)](https://git.io/typing-svg)
 
 <!--
 **beto-hopee/beto-hopee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
